@@ -1,0 +1,12 @@
+para se acessar o modo console do programa deve-se ir a pasta bin e digitar o seguinte:
+
+java Main/Program
+
+
+	explicação:
+
+comando de linguagem - java
+
+pasta principal - Main
+
+classe principal - Program

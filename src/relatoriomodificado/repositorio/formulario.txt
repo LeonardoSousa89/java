@@ -1,0 +1,35 @@
+===========================
+|            		  |
+|        Dados            |
+|            		  |
+===========================
+
+
+entrada:
+usuario:1
+nome:Leonardo Sousa
+cep:41.***-*50
+telefone:(71)98611-3290
+email:*********@gmail.com
+senha:*******7*
+
+tecnologias:java,spring-boot,javaFx,html,css,javascript,typescript,knex,jQuery,express,python,node,mySql,postgreSql,mongoDb,react,react-native,bootstrap,heroku,netlify,tc/ip,windows,ubuntu(linux)
+
+usuario:2
+nome:Bianca Rodriguez
+cep:44.***.*55
+telefone:(71)98569-8569
+email:*****amor@yahoo.com
+senha:******amor**jdk**
+
+tecnologias:html,css,javascript,bootstrap
+
+usuario:3
+nome:Rebecca Fragosa
+cep:44.***.*89
+telefone:(77)98745-8569
+email:******bequinha****.com
+senha:*****bebe***7fg
+
+tecnologias:lua,delphi,cobol,c,c++,apache-tomcat
+programa escrito e desenvolvido por Leonardo sousa proprietário de C.O.A.V tecnologies INC.

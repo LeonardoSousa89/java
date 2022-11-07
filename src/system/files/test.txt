@@ -1,0 +1,14 @@
+-------------------- clients data --------------------
+--------------------------------------------------------
+cod:0125
+name:Mendes
+last name:Santos
+phone number:(55)87965-8569
+city:Miami
+country:United States
+uf:USA
+item:item1
+price:17.568,65 $
+quantity:1
+--------------------------------------------------------
+-------------------- clients data --------------------

@@ -1,0 +1,84 @@
+package Main;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+import Controller.Exception;
+import Model.Client;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		List <Client> clients = new ArrayList<>();
+		
+		try {
+				System.out.println("Dashboard");
+				
+				System.out.println("name:");
+				String name = sc.next(); 
+				System.out.println("age:");
+				int age = sc.nextInt();
+				System.out.println("sex:");
+				String sex = sc.next();
+				System.out.println("adress");
+				String adress = sc.next();
+				System.out.println("phoneNumber");
+				String phoneNumber = sc.next();
+				
+				clients.add(new Client(name, sex, adress, phoneNumber, age));
+				
+				for(Client clientData: clients) {
+					System.out.println();
+					System.out.println();
+					System.out.println();
+					System.out.println();
+					System.out.println();
+					System.out.println();
+					System.out.println(clientData.toString());
+				}
+				
+				
+				
+				
+				System.out.println("do you wish continue?(s/n)");
+				char resp = sc.next().charAt(0);
+				while(resp == 'y') {
+					System.out.println("name:");
+				    name = sc.next(); 
+					System.out.println("age:");
+					age = sc.nextInt();
+					System.out.println("sex:");
+					sex = sc.next();
+					System.out.println("adress");
+					adress = sc.next();
+					System.out.println("phoneNumber");
+					phoneNumber = sc.next();
+					
+					clients.add(new Client(name, sex, adress, phoneNumber, age));
+					
+					for(Client clientData: clients) {
+						System.out.println();
+						System.out.println();
+						System.out.println();
+						System.out.println();
+						System.out.println();
+						System.out.println();
+						System.out.println(clientData.toString());
+					}
+					
+					
+					sc.nextLine();
+					sc.nextLine();
+					sc.nextLine();
+					System.out.println("do you wish continue?(s/n)");
+				}
+		}catch(Exception e) {
+			System.out.println("Error:" + e.getMessage());
+		}
+		sc.close();
+	}
+}

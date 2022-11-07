@@ -1,0 +1,9 @@
+package Model;
+
+public class Client {
+	/*dados do usuário*/
+	private String nome;
+	private String sexo;
+	private int idade;
+	
+}

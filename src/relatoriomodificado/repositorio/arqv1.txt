@@ -1,0 +1,72 @@
+===========================
+||
+|Dados|
+||
+===========================
+entrada:        		  |
+===========================
+
+
+entrada:				atrizes
+
+Meg Ryan
+
+Jennifer Connelly
+
+Julia roberts
+
+Michelle Monaghan
+
+Michelle Pfeifer
+
+Juliane Moore
+
+Salma hayek
+
+Lea Thopsom
+
+Sophia brux
+
+Bridget Fonda
+
+Margot Robbie
+
+Kate Winslet
+
+Kate Beckinsale
+
+Selma Blair
+
+Jude foster
+
+Amy Adams
+
+Jessica Biel
+
+Jessica Alba
+
+Hally Berry
+
+Jada Smith
+
+Alicia Silverstone
+
+Rachel Mcadams
+
+Jennifer Garner
+
+Mila Jovovich
+
+Amy-Lee-Curtis
+
+
+
+Felicity jones
+
+Ama Stone
+
+Emma Watson
+
+Emilia Clark
+
+Jessica Alba

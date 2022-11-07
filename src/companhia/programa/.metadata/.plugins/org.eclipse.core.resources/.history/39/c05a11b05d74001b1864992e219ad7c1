@@ -1,0 +1,9 @@
+package Model;
+
+import Controller.Status;
+
+public class Company {
+	
+	private Status status;
+	
+}

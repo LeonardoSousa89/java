@@ -1,0 +1,3 @@
+dentro da pasta bin digite:
+
+java app/system/Principal	
